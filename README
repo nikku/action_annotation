@@ -1,15 +1,15 @@
 
-== Action Annotation
+= Action Annotation
 
 This plug-in provides means to describe what controller actions are doing in a
 human readable way and the possibility to access these descriptions in a
 computer-friendly way during runtime.
 
-See ActionAnnotation::ActionController::ClassMethods for examples.
+See ActionAnnotation::Annotations::ClassMethods for examples.
 
 == License
 
 Copyright Nico Rehwaldt, Arian Treffer 2009
 
 You may use, copy and redistribute this library under the same terms as
-{Ruby itself}[http://www.ruby-lang.org/en/LICENSE.txt] or under the MIT license.
+{Ruby itself}[http://www.ruby-lang.org/en/LICENSE.txt] or under the MIT-License.
